@@ -2,12 +2,10 @@
   "name": "bootcamp",
   "version": "0.2.0",
   "description": "Decentralized Ethereum Token Exchange",
-  "author": "dev@dappuniversity.com",
+  "author": "redbaron538@gmail.com",
   "private": true,
   "homepage": ".",
-  "engines": {
-    "node": "8.11.1"
-  },
+  
   "dependencies": {
     "@truffle/hdwallet-provider": "1.1.0",
     "apexcharts": "3.6.3",
